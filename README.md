@@ -1,4 +1,4 @@
-<h1>J8-Bit Breadboard Computer</h1>
+<h1>8-Bit Breadboard Computer</h1>
 
  ### [YouTube Demonstration(update)](https://youtu.be/7eJexJVCqJo)
 
